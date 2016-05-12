@@ -20,7 +20,7 @@ This talk will cover how to use `@IBDesignable` and `@IBInspectable` to prototyp
 
 **About you**
 
-Jake is a Mobile Developer at REA Group and mainly works on realestate.com.au iOS App. He is passionate about bridging desing and development flow. Jake is also an active Open Source contributor and develops and mantains some popular projects like SwiftWeather and IBAnimatable. According to github-awards.com, he is NO.1 Swift developer in Australia and NO.9 in the world.
+Jake is a Mobile Developer at REA Group and mainly works on realestate.com.au iOS App. He is passionate about bridging design and development flow. Jake is also an active open source contributor and develops and mantains some popular projects like SwiftWeather(3.6k+ stars) and IBAnimatable (4k+ stars). According to github-awards.com, he is NO.1 Swift developer in Australia and NO.9 in the world.
 
 **Your Picture**
 
