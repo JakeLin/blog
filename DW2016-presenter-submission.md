@@ -22,7 +22,7 @@ Learn how to use the powerful Swift Protocol Extensions to bring these customise
 
 **About you**
 
-Jake is a Mobile Developer at REA Group and primarily works on the realestate.com.au iOS App. He is passionate about bridging the gap between design and development. Jake's an active open source contributor to some popular projects like SwiftWeather (3.6k+ stars) and IBAnimatable (4.1k+ stars). According to github-awards.com, he is NO.1 Swift developer in Australia and NO.9 in the world.
+Jake is a Mobile Developer at REA Group and primarily works on the realestate.com.au iOS App. He is passionate about bridging the gap between design and development. Jake's an active open source contributor to some popular projects like SwiftWeather (3.6k+ stars) and IBAnimatable (4.1k+ stars). According to github-awards.com, he is No.1 Swift developer in Australia and No.9 in the world.
 
 **Your Picture**
 
