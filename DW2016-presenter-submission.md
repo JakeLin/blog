@@ -18,7 +18,7 @@ iOS developers and designers
 
 Out of the box, Xcode's Interface Builder provides many tools for building the basics, but falls short when it comes to customising your UI elements, animations, and transitions. This talk will cover how to prototype and design customised UI, animations and transitions right in Interface Builder, using a flexible and extendable UI library IBAnimatable without writing a single line of code.
 
-Learn how to use the powerful Swift Protocol Extensions to bring these customised UI elements and animations to your custom UI (sorry this bit will involve writing some code 😁).
+Learn how to use the powerful Swift protocol extensions to bring these customised UI elements and animations to your custom UI (sorry this bit will involve writing some code 😁).
 
 **About you**
 
