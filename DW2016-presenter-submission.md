@@ -16,18 +16,16 @@ iOS developers and designers
 
 **Session Details**
 
-This talk will cover how to use `@IBDesignable` and `@IBInspectable` to prototype and design UI, transitions and animations for App Store ready Apps in Interface Builder. Also talk about how to use Swift Protocol Extensions to implement a flexible and extendable UI library `IBAnimatable`.
+Out of the box, Xcode's Interface Builder provides many tools for building the basics, but falls short when it comes to customising your UI elements, animations, and transitions. This talk will cover how to prototype and design customised UI, animations and transitions right in Interface Builder, using a flexible and extendable UI library IBAnimatable without writing a single line of code.
+
+Learn how to use the powerful Swift Protocol Extensions to bring these customised UI elements and animations to your custom UI (sorry this bit will involve writing some code 😁).
 
 **About you**
 
-Jake is a Mobile Developer at REA Group and mainly works on realestate.com.au iOS App. He is passionate about bridging design and development flow. Jake is also an active open source contributor and develops and mantains some popular projects like SwiftWeather (3.6k+ stars) and IBAnimatable (4.1k+ stars). According to github-awards.com, he is NO.1 Swift developer in Australia and NO.9 in the world.
+Jake is a Mobile Developer at REA Group and primarily works on the realestate.com.au iOS App. He is passionate about bridging the gap between design and development. Jake's an active open source contributor to some popular projects like SwiftWeather (3.6k+ stars) and IBAnimatable (4.1k+ stars). According to github-awards.com, he is NO.1 Swift developer in Australia and NO.9 in the world.
 
 **Your Picture**
 
-If you have a headshot, please upload it for use on the website! Please name it "FirstName_LastName".
-
--  I have uploaded it via: https://www.dropbox.com/request/RcWhvWOp3NBhMEJjK54r
--  I'll do it later!
 
 **Where do you think you be travelling to /dev/world/2016 from?**
 
